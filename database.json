@@ -2,39 +2,8 @@
   "schema": "2.0",
   "encrypted": true,
   "genre": "TV",
-  "total": 5,
-  "data": [
-    {
-      "NAMAE": "c1tRWlVY",
-      "COVER": "e1tUW19cSlxT",
-      "SINOPSIS": "WkFEREIDFhpEWlRXVVcXV1NYUlteFFpZXUBUGlJWVBpeXEZRWVVKGgQNVVIJDwoHAgMDBAUNDVcDUwcNBwEOAB1cXlBUQRRTBhhGBRxYCBtfBkUM",
-      "LINK": ""
-    },
-    {
-      "NAMAE": "c2ZkZn4Ze3l7YXFmEW1v",
-      "COVER": "e1tUW19cSlxT",
-      "SINOPSIS": "WkFEREIDFhoHV1YDUw4LAAMFB1EEF0pBQFBRWV1WWl4cW1VAHlhbQUQaUVZFTxZWWkBeX11QSkFtQgINAQoNAAIMBRpcCkwN",
-      "LINK": ""
-    },
-    {
-      "NAMAE": "c1kQY1BfWBVmVEJdXA==",
-      "COVER": "e1tUW19cSlxT",
-      "SINOPSIS": "WkFEREIDFhpTWF1RVVBYG0FcUUYfTEoaU1hdUVVQWBpeXEZRHlhUWFdRWVVuDgsFQhtdB0QB",
-      "LINK": ""
-    },
-    {
-      "NAMAE": "c1lcUVZLVg==",
-      "COVER": "e1tUW19cSlxT",
-      "SINOPSIS": "WkFEREIDFhpEWlRXVVcXV1NYUlteFFpZXUBUGlJWVBpeXEZRWVVKGgQNUwEDDFwEAgMDBAUNDAYLVwANUgsMBh1cXlBUQRRTBxhGBRxYCBtfBkUM",
-      "LINK": ""
-    },
-    {
-      "NAMAE": "c1tXUV0ZbWMSfF5QXldcRltU",
-      "COVER": "e1tUW19cSlxT",
-      "SINOPSIS": "WkFEREIDFhpYVF5NUBRdXFVcXV1JF1heU1hRXUtcXRtcUEQbR15VXERQHUdaFAsGBgMBAh5QV1FdW1VHWFgWW1VHQA5QV15QXlxeUF5XXEZbVG9VXVUWVlpAXl9dUEpBbVcCBAEJCQUCG10HRAE=",
-      "LINK": ""
-    }
-  ],
-  "lastSync": "2026-05-14T19:14:40.308Z",
-  "note": ""
+  "total": 0,
+  "data": [],
+  "lastSync": "2026-05-19T17:25:38.708Z",
+  "note": "Genre ini masih kosong, isi di Google Sheet"
 }
